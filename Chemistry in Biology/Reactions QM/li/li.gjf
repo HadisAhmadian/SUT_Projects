@@ -1,0 +1,10 @@
+%chk=C:\Users\Mrs\Desktop\chem\QM\li\li.chk
+# freq b3lyp/6-31+g(d,p) geom=connectivity
+
+M0001
+
+1 1
+ Li                 0.47537437   -0.05993675    3.57541347
+
+ 1
+

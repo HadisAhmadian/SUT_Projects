@@ -1,0 +1,10 @@
+receptor = prot_only.pdbqt
+ligand = ligand_only.pdbqt
+
+center_x = 18.028
+center_y = -0.917
+center_z = 9.500
+
+size_x = 30
+size_y = 36
+size_z = 24

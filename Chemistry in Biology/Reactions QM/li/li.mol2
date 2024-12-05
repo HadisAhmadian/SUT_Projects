@@ -1,0 +1,16 @@
+#
+#	File Created by: Spartan '14 Export
+#
+
+@<TRIPOS>MOLECULE
+M0001
+1 0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+    1   Li1        0.475374371    -0.059936750     3.575413469      Li   1  M0001
+
+
+@<TRIPOS>BOND
