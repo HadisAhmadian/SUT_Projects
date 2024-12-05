@@ -1,0 +1,10 @@
+1  : R_ACONTb
+17 : R_GAPD
+19 : R_CS
+22 : R_PGK
+32 : R_ENO
+49 : R_GLCpts
+63 : R_PGM
+68 : R_EX_glc__D_e
+75 : R_BIOMASS_Ecoli_core_w_GAM
+79 : R_ACONTa
